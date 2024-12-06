@@ -1,0 +1,10 @@
+# What worlds spawn location do you wish to send the player to when they join a blacklisted world?
+spawn-world: "world"
+# If the plugin doesn't seem to work, try setting use-delay to true
+use-delay: false
+# How long should the plugin wait? 1 tick should be fine, 5 ticks may be noticeable
+delay-in-ticks: 1
+# Which worlds are the player not allowed to spawn into?
+blacklisted-worlds:
+  - world_the_end
+  - world_nether

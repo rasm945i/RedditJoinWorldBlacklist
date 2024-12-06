@@ -1,0 +1,6 @@
+name: RedditJoinWorldBlacklist
+version: '${project.version}'
+main: dk.rasmusbendix.redditjoinworldblacklist.RedditJoinWorldBlacklistPlugin
+authors: [rasm945i, BenteBoi]
+description: Prevent users from joining into specific worlds. Helpful for Mini Games that doesn't handle this well.
+website: https://en.rasmusbendix.dk
